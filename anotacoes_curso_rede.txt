@@ -1,0 +1,399 @@
+COMO SURGIRAM AS REDES
+
+@  ORIGEM DAS REDES 
+  
+   COMO TUDO COMEÇOU.
+   R. Necessidade de comunicação entre as pessoas.
+   Mais com a evolução, como o tempo e a distância ficou mais dificil a comunicação. de maneira arcaícas
+   exisitiam meios ou peleativos para comunicação por meio de sinais, como fumaça.
+   
+
+@  PERSONAGENS IMPORTANTES
+   SAMUEL MORSE foi quem criou o telégrafo, como se fosse um email hoje em dia, mais em vez de ser por meio virtual
+   existia um papel ali para enviar as informações. O Telégrafo apesar da comparação com o email atual
+   ele não recebia letras, recebia sinais, o seu email não, ele recebe letras. e Junto com Telégrafo SAMUEL MORDE 
+   também criou o o CÓDIGO MORSE que era uma forma utilizada de comunicação, era o alfabeteo utilizado pelo telégrafo
+   para enviar os dados.
+
+   D. PEDRO II - Passou vários cabos de telégrafo Submarino, ele interligou vários estados em nosso País, e fez com
+   que a tecnologia chegasse ao nível que é hoje.
+
+@  CABO SUBMARINO
+   Deve estar se prguntando, cabo submarino, existe? SIM, existe e mais do que você imagina, 1958 foi passado um Cabo
+   submarion para interligar todo o sistema telégrafo da América com a Europa. nessa época apenas uma pessoa usava
+   esse cabo por vez, a informação demora 1 minuto e meio para cada palavra  chegar ao seu destino. TODA A AMÉRICA ESPERAVA UM CARA CONVERSAR 
+   imagina. 
+
+@  REDES DE COMPUTADORES
+   1950 - Os primeiros computadores eram computador de grande porte chamandos de MAINFRAMES, sendo seu processamento
+   centralizado, até porque eram computadores extramamente caros que ocupava salas inteiras. 
+
+@  JEFREY DAMA (1952) - Outro personagem importante que foi responsável pela criação do circuito integrado, existente  hoje
+   embarcados nos processadores modernos. (milhoes), 
+
+@  1960
+   Com o surgimento do circuito integrado possibilitou a redução de tamanho dos computadores o que em consquencia desse
+   fato que promovei a criação dos primeiros compuadores comerciais que também permitiram a criação de modens para 
+   realizar comunicação de longa distência. ( a velocidade desses modem eram equivalmentes a 4.800 bps ).
+
+@  1969
+   Com a redução dos computadores proprciou a criação de Sistemas Operacionais, (UNIX), visto que os computadores se
+   aproximavam mais dos seres humanos. nesta mesma época também surgiu a DARPA (que criou a ARPANET) que é o PRIMORDIO  
+   da Internet. ele veio antes para poder interligar os computadores para fins de pesquisa.
+
+@  1970 (SURGIMENTO DAS PRIMEIRAS REDES)
+   Nessa época ja usava-se computadores interligados, porém a partir de terminais, não como o modelo que temos hoje 
+   existia um computador central, e terminais munidos de monitores e teclados onde eram feitas as intereaçẽos com
+   esses computadores centrais. com o surgimento dessas novas redes, houve a necessidade de criar um idioma para que
+   computadores pudessem se comunicar de maneira única, porque a principio não havia como interligar todo mundo
+   porque um falava uma linguagem outro falava outra, portando teve a necessiade de criar uma coisa que possibilitassem
+   se conversarem de forma igual, e pudesse se comunicar.
+
+@  1975 (CRIAÇÃO DO TCP IP)
+   Surgiu o protocolo TCPI/IP que é um protocolo praticamente usado pra tudo, é um conjunto de regras e ações que as 
+   redes seguem para poder realizar transmissão e comunicação. (celulares, tv smart, computadores.
+
+@  1980 (SURGIMENTO DOS COMPUTADORES PESSOAIS)
+
+   APPLE II e IBM PC, esses computadores pessoais permitiram a popularização da internet de forma que isso se difun-
+   disse a fazer com que quase todas as pessoas, quem tivesse próximo alí na época pudesse ter acesso a grande rede.
+   o padrão de comunicação que temos hoje não existia, ele só veio existir em 1990 criado por um cara famoso, foi
+   ele que criou o "WWW", junto com o WWW ele criou a linguagem HTML, o pirmeiro navegador de internet utilizado
+   e o protocolo HTTP, e esse HTTP permitia a troca de hipertextos, troca de páginas dos sites pros computadodores
+   das universsidade e pra quem tivesse ligado na rede.e com isso a internet cresceu muito. O HTTP difundiu bastante 
+   a troca de informações e esimulou a criação de páginas, com isso precisava interligar a quantidade de computadores
+   que estava aumentando nessa epoca. como você acha que esses comptutadores eram interligados e são interligados hoje.
+   
+   exemplo: quando abrimos o site "www.facebook.com.br" este hospedado nos EUA, como você acha que vem o facebook
+   para o seu computador la dos estados unidos? esse sinal, como é que ele trafega, para la e para cá, deve estar 
+   pensando em SATÉLITE né? NÃO É, somente 1% de toda a comunicação mundial é feita via satélite. é utilizada para 
+   coisas mais específicas, um exemplo claro é e DELAY entre uma TV ABERTA e uma TV A CABO.
+
+@  1990 - (CABOS SUMARINOS)
+   sua resposta para a questão acima são isso mesmo, CABOS SUMARINOS, la de 1958 ainda existe hoje, porém melhorado
+   com mais brindagem, uma forma de comunicação mais apurada. lembra o cabo de 1858, este ficou 8 anos sem funcionar
+   funcionou alguns dias depois parou, estava interligando lugares muito longe passando pelo mar, mais depois de 8
+   anos foi repassado um outro cabo, mais precisamente em 1866, e ele ficou interligando o cabo telegráfico até 1966
+   quando ele foi tirado e colocado cabos novos para que pudesse preparar o sistema de cabeamento pra suportar inter
+   net que vinha chegar em 1969 com seu primórdio que era a ARPANET, agora a pergunta, como é feito para passar esse  
+   cabo por dentro da Água até chegar aos lugares que ele precisa para levar informação. (NAVIOS ENORMES) esses são
+   responsáveis por levar a ponta dos cabos de um continente a outro, pode paredcer absurdo, mais é o que é feito hoje
+   em dia nas ligações de rede, pra você entender um pouco melhor, esse cabo fica no Oceano, mais ele não fica boindo
+   na água para anavio passar em cima, ele fica maios ou menos entre 7 a 9 km de profundidade, para ficar lonte dos 
+   navios, das âncoras, e poder evitar que seja partido com facilidade.
+   e como e feito o reparo, logico que em lugares mais profundos onde os seres humanos não conseguem descer, robos
+   fazem reparo ou levantam o cabo par aque seja feito reparo mais de forma geral e realizado reparos por mergulhadores
+   ate onde o ser humano consegue descer. se der um problema muito grande acabe tendo que ser trocado.
+   maioria dos problemas são causados por mordidas de tubarão. hoje são 288 cabos submarions existentes que interligam
+   todos os sistemas de telecomunicação do mundo.
+  
+   fonte: http://sumarinecablemap.com/ (mostra um mapa de todos os cabos com seus repectivos donos e velocidades.) 
+   
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CALCULO  SUBREDES | EXEMPLO SIMPLES DE UM CALCULO DE 4 SUBREDES USANDO UM IP CLASSE C 
+
+
+192.168.1.10
+255.255.255.192
+
+1 PASSO => Observe a máscara de subrede (255.255.255.192) encontre o octeto mixto(192) que são 
+os compostos por zeros e um.
+
+Mascara de subrede - em binário se todos os três primeiros octetos é 1 e o último or zero.
+MISTUROU ZERO 0 e  1 É MASCARA DE REDE.
+
+CALCULO PARA SABER QUANTOS IPs possui 
+pega o último numero da subrede(192) e diminui de (256), 256??, isso porque 256 correspondente
+o intervalo da rede classe C que vai de 0 a 255.
+diminuiu?
+achou o numero de ips  da rede? sim, então - são 64 isso incluindo rede e broadcast, 
+rede não pode dar para ninguém, nem broadcast(255) ultimo, logo ficam 62 hosts. em cada REDE.
+ 
+
+2 PASSO - DTERMINAR SALTO
+
+256-192 = 64
+
+3 PASSO - ACHAR TODAS AS SUBREDES
+
+4 PASSO - ACHAR TODOS OS ENDEREÇOS DE BROADCAST 
+
+5 PASSO - ACHAR TODOS OS HOSTS
+
+
+REDE                                          HOST                                    BROADCAST
+192.168.1.0		+            192.168.1.1 a 192.168.1.62           +          192.168.1.63
+192.168.1.64            +            192.168.1.65 a 192.168.1.126         +          192.168.1.127
+192.168.1.128           +            192.168.1.129 a 192.168.1.191        +          192.168.1.192
+192.168.1.192           +            192.168.1.193 a 192.168.1.254        +          192.168.1.255
+192.168.1.256           +
+
+OBS
+REDE começa
+do primeiro
+e incrementa
+64 a 64 
+ate 256
+que é ultima rede
+ultima subrede
+sera seu octeto 
+mixto
+
+BROADCAST 
+Sempre será o
+valor da próxima subrede
+menos 1.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+CONFIGUAÇÕES WIFI PAA MELHOR DESEMPENHO
+
+CONFIGURAÇÕES AVANÇADAS 
+
+* CONFIGURAÇÕES WIRELESS
+  OPÇÕES DE SERGURANÇA 
+		{WPA/WPA - Pessoal(para redes pessoais de casa)
+		{WPA/WPA2 - Empresarial - usa servidore RADIUS / Autentica servidore e AP}
+		Matenha as versões no automático.
+
+  MODO TRANSMISSÃO { PROCURAR NÃO DEIXAR NO PADRÃO MIXTO, PORQUE IRA COMPATIBILIZAR
+                     A REDE DE MODO A FUNCIONAR, O QUE NECSSARIAMENTE NÃO QUER DIZER PRIORIZE VELOCIDADE
+                     ESSE MODO MANTÉM A COMPATIBILIDADE COM DISPOSTIVIOS MAIS ANTIGOS QUE NÃO ACEITA NOVOS 
+                     PADROES DE TRANSMISSÃO}
+
+  CANAL:        {ESCOLHER MELHOR CANAL, PODE USAR AQUI PARA A ESCOLHA DO MEHOR CANAL UMA FERRAMENTA CHAMADA
+                XIRRUS. ELE MOSTRA TODOS OS ROTEADORES EM VOLTA DA LOCALIDADE, OBSERVE O CANAL QUE POSSUI 
+                A MENOR QUANTIDADE DE ROTEADORES, EXISTEM 13 CANAIS HOMOLOGADOS PELA ANATEL, DESSES VOCÊ 
+                SOMENTE PODERÁ ESCOLHER O 1,6,11, SÃO OS CANAIS QUE SOFREM MENOR QUANTIDADE DE INTERFERÊNCIA
+                OS DEMAIS CANAIS ATÉ FUNCIONAM PORÉM COM MAIOR POSSIBILIDADE DE INTERFERÊNCIA.
+                
+		APP PARA CELULAR (WIFI ANALISER)
+
+  PODER DE TRANSMISSÃO: SE IRA DISPONIBILIZAR APENAS EM UM CÔMODO MANTENHA OPÇÃO COMO BAIXA., CASA TODOA COLOCA
+                        NO ALTO.
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TIPOS DE REDE 
+************************************************************************************************************
+CLASSIFICAÇÃO 
+
+@MODELO COMPUTACIONAL@
+
+Ponto a Ponto (Não tem servidor Definido)
+ POS
+ Baixo Custo
+ Simples
+ 
+ CONTRA
+ Baixa Segurança
+ 
+
+CLiente Servidor (alguns livros apontam um modelo internet) (TEM SERVIDOR QUE GEENCIA SERVIÇOS )
+
+ CONTRA
+ Mais complexa
+ Custo mais elevado
+ Necessita de profissional com conhecimento para implmentação
+
+ PÓS
+ Nível de Segurança
+
+ 
+
+@ POR ABRANGÊNCIA
+  
+  PAN (Personal Área Network) rede com alcance menor, ao alcance de uma pessoa, um  braço
+  até 1 metro quadrado. (Ex. Blue thoo ), uma caracterísicas para ser considerada uma 
+  rede PAN, não possuir equipamento intermediário, e alcance curto. caso use um Roteador
+  deixa de ser PAN.cabo crossover entre maquinas é uma PAN, NFC, WIFI DIRECT, INFRA VERMELHO
+  todas consdieradas redes PAN. iphone possui o AIRDROP. (ATE 10 METROS QUADRADOS) 
+
+
+  LAN (Local Área Network )
+  Computadores em ambiente local de até 100 mtrs, alguns livros indicam até 1 Km, porém 
+  depende do cabo, PAR TRANÇADO até 100 metros, passando dessa distãncia precisará de um
+  repetidor. em resumo uma rede que esta no mesmo ambiente físico, mesma edificação, mesmo
+  prédio. (ATÉ 100 METROS QUADRADOS) 
+  
+
+
+  CAN
+  Campus Área Netowork (Campus de FACULDADES) várias redes locais interligadas
+  Interligação de LANs. , rem resumo redes com alcance de até 1 KM. (ATE 1 KM)
+
+  MAN
+  Metropolitan Área Network
+  Rede que interliga cidades, (não é internet)em geral usado por empresas para interligar 
+  suas filias, lojas. etc. usa equipamentos próprios para ingterligar, VPN é um caso.
+  um provedor de internet, é uma rede MAN, VIRTUA, rede deles que tem acesso a internet.
+  Interliga, bairros, cidades e estados. acima disso WAN. (ATÉ 10 KM) 
+
+  WAN
+  Wide Aŕea Network - Internet.
+  Geograficamente distribuida, pdoemos chegar a qualquer lugar do mundo.
+  WIDE - Abrangente. ligação entre países e continentes.  (ATÉ 100 KM).
+  se precisar contratar tecnologia de terceiros , provalmente vocẽ estará em uma WAN.
+ 
+  Não existe um muro, tem muito haver com equipamentos utilizados.
+
+@TOPOLOGIA"
+ 
+  ARRANJO FÍSICO
+  TOPOLOGIA - ARRANJO DE QUALQUER COISA, ARRUMAÇÃO DAS COISAS. FORMA DE DISTRIBUIÇÃO.
+  ANALOGAMENTO UMA SALA DE AULA, ARRANJO DAS CADEIRAS, POSTURA DOS ALUNOS, OLHANDO PARA O PROFESSOR 
+
+  ARRANJO LÓGICO
+  COMO IRÃO TROCAR OS DADOS 
+  NO CASO ASIMA DA SALA DE AULA, SERIA A FORMA QUE SERA A COMUNICAÇÃO ENTRE PROFESSORES E ALUNOS 
+  COMO TAMBÉM EXISTE UM PROCOLO QUE É A LINGUAGEM, NOSSO CASO O PORTUGUÊS.
+
+  TIPOS:
+  ESTRELA
+   Tem um ponto central que distribui sinal para todos outros equipamentos interligados.
+ 
+  ANEL
+    Não possui um ponto principal, cada um dos equipamentos comunicam entre-si
+ 
+ 
+  BARRAMENTO
+    Tem um barramento principal com suas ramificações, esse barramento principal chama-se backbone 
+		
+  TOPOLOGIA LÓGICA 
+  ETERNET com seus vários sabores, FAST-INTERNET, GIGABIT ETERNET, 10 GIGABIT ETERNET, TOKEN RING, FDDI ETC. 
+  SÃO REGRAS DE ETERNET.
+
+  COLISÃO: Quantos dados são transmitidos ao mesmo tempo, a tecnologia CSMA/CD(
+  CS = CARRIER SENSE - Capacidade de verificar se o cabo esta livre para transmissão;
+  MA =  MULTIPLE ACCESS (Capacidade de múltipos nós cocorrem pela utilização da mídia, ou seja o protocolo CSMA/CD não
+  gera nenhum tipo de prioridade (da o nome de Multiple Access, acesso múltipo)como o CSMA/CD não gera prioridade pode 
+  ocorrer de duas placas tentarem transmitir dados ao mesmo tempo. Quando isso ocorre, á uma colição 
+  e nenhuma das placas consegue transmitir.
+
+  CD = (Collision Detection): É responsável por identificar coliões na rede.
+
+  Em resumo: o CSMA/CD identifica quando oemio (canal) esta disponível (idle time) para transmissão. neste momenot a transmissão é niciada.
+  o mecanismo CD (Collision Detection - Detecção de Colisão) ao mesmo tempo, obriga que os nós escutem a rede enquanto emitem dados,
+  razão pela qual o CSMA/CD é também conhecido por (LWT) liste while Talk  - Escute enquanto fala.
+  Se o mesmo detectar a colisão toda transmissão é interrompida e é emitido um sinal ("jam" 48 bits) para anuncar que ocorreu colisão.
+  COmo o CD te ma a capacidade de ouvir enquanto fala, o mesmo compara se a amplitude do sinal recebido é a mesma do sinal enviad. desta forma
+  quando se ouve algo diferente od que foi dido, é identificado uma colião
+  colisões são consideradas um problema ou em erro de transmissaõ, apenas quando ocorrem mais de 16 vezes consecutivas, ou seja se um
+  deteminado nó tenta retransmitir um mesmo frame mais de 16 vezes, resultando sempre em uma colião, então tal transmissão é cancelada
+  e passa a ser considerada um problema.
+
+  
+  TOKENG-RING - trabalha na topologia anel, envia um token para estação, a estação que precisa comunicar transmite
+  aquela que não precisa transmissão para para a próxima. 
+  
+		  
+  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  DETALHES (MATERIAL REDE)
+  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  CONTECTORES RJ 45 - Tem modelos que não quebra a trava 
+  IDENTIFICADORES DE CABO - Identificar os pontos 
+  RJ-45 FEMEA - Tomada RJ para parede.(keystone)
+  TOMADA DE SUPERFICIE - Para instalação dos conectores
+  TESTADOR DE CABOS - Testador e localizador de cabos (MODELO TESTADOR JA COM GERADOR DE TONS )
+  PONTO DE ACESSO - TPLINK AC1350
+  REPEDITOR - ESTENDER A REDE 
+
+  OBSERVAÇÃO PONTO DE ACESSO
+  ANTENAS 2.4 E 2.5  - VÁRIAS ANTENAS PARA ENTRADAS E VÁRIAS ANTENAS PARA  SAÍDA 
+  MULTIPLIN E MULTIPLIAL 
+  TECNOLOGIA WDS 
+  1 PORTA WAN - ROTEÁVEL (PORTA DE CONEXÃO COM A INTERNET) RECEBE O CABO DO MODEM ADSL OU DISPOTIVO EQUIVALENTE 
+  4 PORTAS LAN/SWICH - 
+
+  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  INDICAÇÃO DE LIVROS
+  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  INFORMÁTICA - CONCEITOS BÁSICOS (EXERCICIOS) INICIANTES.
+  REDES DE COMPUTADORES -  " SÉRIE USE A CABEÇA"
+  REDES DE COMPUTADORES TECNICA E PRÁTICA (DOUGLAS ROCHA MENDES)
+  CISCO CCNA - ROUTING E SWITCHING - (CERFICAÇÃO ICND2 200-101
+  REDES DE COMPUTADORES - TANENBAUM TERCEIRA EDIÇÃO 
+  ORGANIZAÇÃO DE COMPUTADORES - AMDEREW S. TANENBAUNM
+  LIVRO DO CUROSE.
+  ******************************************************************************************************************
+
+  ++++++++++++++++++
+  PERGUNTAS TÉCNICAS
+  ++++++++++++++++++
+  
+  VELOCIDADE DE CONEXÃO LIMITADA ABAIXO DO VALOR NOMINAL - VERIFICAR INTERFERÊNCIA, MESMOS CANAIS, ESEPCIFICAR CANAL FIXO
+  DISPOSITIVOS BLUETHO, TLEFONES SEM FIOS QUE USEM O MESMO SPECTRO DE FREQUÊNCIA DA SUA REDE WIFI, PARA RESOLVER DEIXE 
+  O CANAL QUE ESTEJA MELHOR COMO FIXO.
+
+  USE O SOFTWARE "XIRUS WIFI-INSPECTOR"  PARA ANALISE DE REDE, xirus.com - site oficial. procure pro free toos 
+  va em donwload wifi specitor, preencha o cadastro.
+
+  ferramenta semelhante para linux (iwscanner)
+
+  obs: WDS não necessita que ambos disponsitivos seja do mesmo modelo, basta ter a tecnologoia em ambos.
+
+  pecularidades
+  
+  inicio da internet 1969 - DARPHA  - ARPANET 
+  Criador do email : RAY TOMLYSON 1969
+  Primeiro Protocolo: NCP
+  Protocolo: conjunto de regras e ações que a rede tem que seguir como também os equipamentos, antigamentes eram arquiettura proprietárias
+  Outros protolos da época: ALOHA NET, TELENET
+  1972 já existia 15 pontos na ARPANET
+  Nessa época enquanto um ponto transmitia todos os demais pontos ficavam sem sem comunicação
+  VINTON GRAY, ROBERT E. KAHN Criaram um protocolo TCP/IP , que em resumo um ponto quanto queria falar com outro enviava um pedaço da informação 
+  o que não havia antes (uma divisão)                                                             
+  ISO Padronizou os meios de comunicação entre os equiamentos (OSI)
+  MODELO TCP/IP (Modelo de 4 Camadas)
+  internet apenas disponível em militar e universidades.
+  - A rede antigamente era por números, esses numeros como IP, ou seja teria que saber o endereço em número. dai surgiu o DNS
+    Analogamente uma agenda telefonica.
+  - Existem 13 servidores DNS espalhados pelo mundo, cada com mantendo 200 copias.
+  DNS surgiu  1986.
+  -  A nível de Brasil em 1986 não tinha rede de conexão de dados, meados da decada de 80, crescimento da ARPANET com amis de 100000
+  maquinas conectadas, controlado pelo governo dos Estados UNidos .
+  - Governo abriu mão da ARPANET, juntaram então essas redes e surgiu da a Internet.
+  - no Brasil decadade 1990 começou chegar nas universidades. ( REDE NACIONAL DE PESQUISAS )., existia uma rede chamado BITNET que 
+    possibilitava a pequisa de artigos cientifícos de outras universidades, usando um protocolo chamado GOPHER.
+  - Mosaic  - primeiro navegador devido evolução do GOPHER pelo HTTP.(surgiu 1990/91).
+  - Em 1990/91 no CERN - Centro de Pesquisa de Energia Nuclear que fica na Europa, um cara chamado TIM BERNER LEE, fez uma pesquisa
+    e criou o HTTP/HTML/NAVEGADOR que é uma solução do GOPHER.
+  - 1993/94 A embratel abriu inscrição para pedir internet em casa (JUSTIFICÁVEL). 
+  - Assim como o TCP/IP existem outros protocolos como IPX/SPX da xerox, da microsoft teve o NETBEUI. 
+  - Padrão ETERNET criado pela xerox, interface grafica, primeira impressora laser, mouse, inclusive um padrão de conexão.
+  - PARC - Palo Alto Reaserch Center - Centro de Pesquisa da California que criou um monte de pesquisa, uma curiosidade 
+    do nome ETERNET, é que ROBERT METCALVE (CRIADOR DA ETERNET) observou que o sinal se propagava pelo cabo (coaxial na epoa)
+    igual o principio de propagaçao do ETER quando se abre um vidro de eter ele rapidamente se propaga no ambiente. dai vem 
+    o ETER + NET de netowrk. dados se espalham muito rapido.
+  
+LIVROS INDICADOS
+    @ TRABALHANDO COM REDES DE COMPUTADORES - CONCEITO E PRÁTICA (CAMILA SECATO)
+    @ INFORMÁTICA CONCEITOS BÁSICOS (FERNANDO VELOSO)
+    @ REDES DE COMPUTADORES (TANEMBAUMM) - INDIRATAMENTE CRIADOR DO LINUX
+
+INDICAÇÕES DE EMPRESAS
+DATATRI.COM.BR - Site de compta material de Rede 
+
+  
+TIPOS DE EQUIPAMENTOS DE REDE (MÓDULO 04 - ESTUDONAUTA)
+
+EQUP PASSIVO 
+ - Não circuíto eletrônico e não precisa ser ligado na tomada para funcionar
+    
+
+EQUP ATIVO 
+ - Possui circuíto eletrônico, possui processador, possui memória (ROM) e necessita
+ser ligado na tomada para funcionamento, e permite que seja alterado suas 
+configurações.
+
+EQUIPAMENTOS PASSIVOS 
+ - 
+   
+   
+ 
+   
